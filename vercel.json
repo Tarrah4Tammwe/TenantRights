@@ -1,5 +1,6 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "out",
-  "framework": "nextjs"
+  "rewrites": [
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/contact", "destination": "/contact.html" }
+  ]
 }
