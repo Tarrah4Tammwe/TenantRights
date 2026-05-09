@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://tenantrightsuk.info/sitemap.xml
+Disallow: /admin/
+Disallow: /api/
+Sitemap: https://section21.info/sitemap.xml
