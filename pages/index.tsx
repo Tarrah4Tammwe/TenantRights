@@ -49,6 +49,7 @@ export default function Home() {
     <Layout
       title="UK Tenant Rights — Plain English Answers"
       description="Plain English answers to your tenant rights questions. Updated for the Renters' Rights Act 2025. No jargon. No hedging. Just the answer."
+      canonical="https://tenantrightsuk.info"
       schema={schema}
     >
       {/* Hero */}
